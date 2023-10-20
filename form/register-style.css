@@ -1,0 +1,18 @@
+@charset "utf-8";
+span.hissu{
+   border-radius: 10px;
+   background-color: #ff0000
+   (42, 193, 42);
+   color: black;
+   font-size: 10px;
+   }
+span.kakko{
+    font-size: 10px;
+}
+body {
+    width: 100%;
+  }
+  caption,table,th,td{
+    border: solid 5px black;
+    border-collapse: collapse;
+  }
