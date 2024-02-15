@@ -1,0 +1,12 @@
+@charset "utf-8";
+.text-brown{
+    color: brown;
+    background-color: beige;
+}
+#id-yellow{
+     background-color:yellow;
+}
+span{
+    border: 2px dotted green;
+}
+   
